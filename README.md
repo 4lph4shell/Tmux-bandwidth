@@ -1,7 +1,6 @@
 ## Tmux-bandwidth
  tmux-network-bandwidth
 # Network bandwidth plugin for tmux
-[![GitHub](https://img.shields.io/github/license-GPL/xamut/tmux-network-bandwidth)](https://github.com/4lph4shell/Tmux-bandwidth/blob/main/LICENSE)
 
 Shows the network bandwidth in the status line.
 

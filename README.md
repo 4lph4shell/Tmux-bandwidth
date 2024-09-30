@@ -1,7 +1,7 @@
 ## Tmux-bandwidth
  tmux-network-bandwidth
 # Network bandwidth plugin for tmux
-[![GitHub](https://img.shields.io/github/license/xamut/tmux-network-bandwidth)](https://github.com/4lph4shell/Tmux-bandwidth/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license-GPL/xamut/tmux-network-bandwidth)](https://github.com/4lph4shell/Tmux-bandwidth/blob/main/LICENSE)
 
 Shows the network bandwidth in the status line.
 
@@ -45,4 +45,4 @@ The plugin could be customized with:
 * `set-option -g @tmux-network-bandwidth-padding 12` - Set up the fixed padding for the output.
 
 ## License
-tmux-network-bandwidth plugin is released under the [MIT License](https://github.com/4lph4shell/Tmux-bandwidth/blob/main/LICENSE).
+tmux-network-bandwidth plugin is released under the [GPL License](https://github.com/4lph4shell/Tmux-bandwidth/blob/main/LICENSE).
